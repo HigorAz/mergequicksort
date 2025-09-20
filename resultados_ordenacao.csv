@@ -1,0 +1,10 @@
+Tamanho_Entrada,Algoritmo,Tempo_Execucao_s,Comparacoes,Trocas_ou_Movimentacoes
+20000,Merge Sort,0.155168,260904,287232
+20000,Quick Sort (Pivô Fixo),0.114141,329466,182745
+20000,Quick Sort (Pivô Aleatório),0.118485,336958,215849
+40000,Merge Sort,0.297812,561849,614464
+40000,Quick Sort (Pivô Fixo),0.211683,704615,386321
+40000,Quick Sort (Pivô Aleatório),0.260505,726544,444784
+160000,Merge Sort,1.443336,2567306,2777856
+160000,Quick Sort (Pivô Fixo),0.957304,3498563,1844790
+160000,Quick Sort (Pivô Aleatório),1.011341,3350302,1769336
